@@ -1,7 +1,5 @@
 <!-- Badges -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/usuario/QuantumAgri)
-![License](https://img.shields.io/github/license/usuario/QuantumAgri)
-![Issues](https://img.shields.io/github/issues/usuario/QuantumAgri)
 
 ## Proyecto: QuantumAgri - Optimización Cuántica de Cultivos para Pequeños Agricultores
 
