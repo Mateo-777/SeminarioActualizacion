@@ -1,5 +1,5 @@
-## Proyecto: QuantumAgri - Optimización Cuántica de Cultivos para Pequeños Agricultores
+## Proyecto: Computación Cuántica - Estados de Bell
 
 <p align="center">
-  <img src="assets/images/putumayo.jpg" alt="Mapa de Putumayo" width="800px" />
+  <img src="assets/images/1.png" alt="1" width="800px" />
 </p>
