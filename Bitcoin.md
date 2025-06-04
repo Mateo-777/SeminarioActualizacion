@@ -2,7 +2,7 @@
 
 ![Bitcoin Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg)
 
-## 📌 Introducción
+##  Introducción
 
 La primera versión de **Bitcoin (v0.1)** fue lanzada por Satoshi Nakamoto el **9 de enero de 2009**, marcando el nacimiento del sistema de efectivo digital descentralizado más influyente hasta hoy.
 
@@ -24,22 +24,22 @@ Este documento resume las ideas clave y limitaciones técnicas de esa versión i
 
 ---
 
-## 🔑 Elementos Técnicos
+##  Elementos Técnicos
 
-### 📁 Estructura básica
+###  Estructura básica
 
 - El software incluía una **interfaz gráfica (GUI)** rudimentaria.
 - Tenía su propio monedero, nodo y minero integrados.
 - No existía aún el concepto de nodos ligeros (SPV wallets).
 
-### 🔐 Seguridad
+###  Seguridad
 
 - Todas las transacciones se validaban mediante firmas digitales y se almacenaban en una cadena de bloques.
 - La dificultad de minería era estática en el primer bloque; no había ajuste dinámico inmediato.
 
 ---
 
-## 🧪 Limitaciones Identificadas
+##  Limitaciones Identificadas
 
 1. **No había protección contra ataques de Sybil** (limitado solo por el bajo uso).
 2. **No existía separación entre nodo y monedero**.
@@ -48,7 +48,7 @@ Este documento resume las ideas clave y limitaciones técnicas de esa versión i
 
 ---
 
-## 🔁 Evolución Posterior
+## Evolución Posterior
 
 - Las versiones posteriores introdujeron:
   - **Ajuste de dificultad**
@@ -58,7 +58,7 @@ Este documento resume las ideas clave y limitaciones técnicas de esa versión i
 
 ---
 
-## 📚 Referencias
+## Referencias
 
 - Whitepaper original: [bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 - Código fuente inicial en C++ (vía archive): [github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
