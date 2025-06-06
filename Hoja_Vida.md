@@ -1,4 +1,5 @@
 # 👨‍💻 Mateo Suarez Herrera
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 📧 **Correo:** [amsuarez12@hotmail.com](mailto:amsuarez12@hotmail.com)  
 🌎 **Nacionalidad:** Colombiano 🇨🇴 | Bogotá D.C.  
@@ -56,13 +57,14 @@ Soy un apasionado por la electrónica, la automatización industrial y las energ
 
 ## 📈 GitHub Stats *(opcional)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Mateo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Mateo's most used languages" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/mateosuarez?label=Seguidores&style=social)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange?logo=mathworks)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
 ---
-
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateosuarez&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateosuarez&layout=compact&theme=radical)
+---
 ### 🚀 ¡Gracias por visitar mi perfil!
 
 > "La innovación distingue a los líderes de los seguidores." – Steve Jobs  
